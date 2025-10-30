@@ -406,7 +406,7 @@ export default function App() {
       )}
 
       {/* "Fenêtre" de l'application avec hauteur max et layout flex-col */}
-      <div className="max-w-4xl w-full mx-auto bg-white rounded-2xl shadow-lg flex flex-col max-h-[720px] z-10">
+      <div className="max-w-4xl w-full mx-auto bg-white rounded-2xl shadow-lg flex flex-col max-h-[680px] z-10">
         {/* En-tête (non-scrollable) */}
         <header className="p-6 border-b border-slate-200 flex-shrink-0">
           <Logo />

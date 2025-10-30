@@ -4,7 +4,8 @@ Shrnk est une application web ultra-rapide pour la compression d'images, conçue
 
 Ce projet met l'accent sur une expérience utilisateur (UX) moderne, avec un design épuré, un glisser-déposer intuitif et un retour visuel en temps réel.
 
-_(Insérez ici un screenshot ou un GIF de votre application)_
+![image](assets/home.png)
+![image](assets/run.png)
 
 ## 🚀 Fonctionnalités
 
