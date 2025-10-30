@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback, useRef, FC, DragEvent, ChangeEvent } from 'react';
 import "./style.css";
+// Test
 
 // --- Icônes SVG (pour remplacer lucide-react dans un seul fichier) ---
 
