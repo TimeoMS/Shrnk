@@ -1,18 +1,18 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "shrkn",
+  "productName": "shrnk",
   "version": "0.1.0",
-  "identifier": "com.viazel.shrkn",
+  "identifier": "fr.timeoms.shrnk",
   "build": {
-    "beforeDevCommand": "npm run dev",
+    "beforeDevCommand": "bun run dev",
     "devUrl": "http://localhost:1420",
-    "beforeBuildCommand": "npm run build",
+    "beforeBuildCommand": "bun run build",
     "frontendDist": "../dist"
   },
   "app": {
     "windows": [
       {
-        "title": "shrkn",
+        "title": "shrnk",
         "width": 800,
         "height": 600
       }
